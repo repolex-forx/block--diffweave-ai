@@ -57,6 +57,98 @@
       ],
       "ast": [
         "aggregate/ast/1140ed05faac7e6234d90447b780d219fa176e94/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1140ed05faac7e6234d90447b780d219fa176e94.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "beaupy",
+          "ecosystem": "PYPI",
+          "version": "3.10.1",
+          "githubOrg": "petereon",
+          "githubRepo": "beaupy",
+          "githubCommit": "60efe491ebb5e4a50d93dff6492c3a28fc7dc3d5",
+          "githubTag": "v3.10.1",
+          "githubUrl": "https://github.com/petereon/beaupy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "cyclopts",
+          "ecosystem": "PYPI",
+          "version": "3.24.0",
+          "githubOrg": "BrianPugh",
+          "githubRepo": "cyclopts",
+          "githubCommit": "e36516d54e5b27e22a32a32ecc67d07e689c7313",
+          "githubTag": "v3.24.0",
+          "githubUrl": "https://github.com/BrianPugh/cyclopts",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "gitpython",
+          "ecosystem": "PYPI",
+          "version": "3.1.44",
+          "githubOrg": "gitpython-developers",
+          "githubRepo": "GitPython",
+          "githubCommit": "fb1b05124f1070ed56231a782daee0ffce9e1372",
+          "githubTag": "3.1.44",
+          "githubUrl": "https://github.com/gitpython-developers/GitPython",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "openai",
+          "ecosystem": "PYPI",
+          "version": "1.82.0",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python",
+          "githubCommit": "f588695f77aad9279a355f5f483d8debf92b46ed",
+          "githubTag": "v1.82.0",
+          "githubUrl": "https://github.com/openai/openai-python",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "python-dateutil",
+          "ecosystem": "PYPI",
+          "version": "2.9.0.",
+          "githubOrg": "dateutil",
+          "githubRepo": "dateutil",
+          "githubUrl": "https://github.com/dateutil/dateutil",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pyyaml",
+          "ecosystem": "PYPI",
+          "version": "6.0.2",
+          "githubOrg": "yaml",
+          "githubRepo": "pyyaml",
+          "githubCommit": "41309b0bcb4559edb1d691d47199035ef539d785",
+          "githubTag": "6.0.2",
+          "githubUrl": "https://github.com/yaml/pyyaml",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "15.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+          "githubTag": "v15.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/rich/text.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
