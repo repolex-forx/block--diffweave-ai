@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/diffweave-ai/commit/1140ed05faac7e6234d90447b780d219fa176e94",
       "git:hexsha": "1140ed05faac7e6234d90447b780d219fa176e94",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.3"
     },
     {
